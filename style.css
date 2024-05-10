@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    background-color: #D9CDF7;
+}
+
+#sofa {
+    width: 300px;
+    height: 300px;
+}
+
+body {
+    display: block;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 50px;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+button {
+    font-family: sans-serif;
+}
